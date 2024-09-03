@@ -1,3 +1,3 @@
-module layeh.com/gopus
+module github.com/iu0jgo/gopus
 
-go 1.16
+go 1.22
